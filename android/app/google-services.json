@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "560153429134",
+    "project_id": "easy-for-you-b55c2",
+    "storage_bucket": "easy-for-you-b55c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560153429134:android:032cb198128992514975df",
+        "android_client_info": {
+          "package_name": "Mohamed.zewin.n85"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560153429134-h8bllts5j5aeokflmjq9vor24389e3m9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Mohamed.zewin.n85",
+            "certificate_hash": "5f56a5cdb587b46767b5dd3f3656ecaf4d782c71"
+          }
+        },
+        {
+          "client_id": "560153429134-mc3uems963ta2sepopc5nmefmra5gks7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpkAoE9LzP0lgk08PIP5U-NuAAekYrrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560153429134-mc3uems963ta2sepopc5nmefmra5gks7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560153429134-kpdvsivsj9qv7dsnttc1f0se54ie13sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sahelNet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
